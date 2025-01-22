@@ -15,13 +15,12 @@
     <source media="(prefers-color-scheme: light)" srcset="sources/csharp_light.png">
     <img alt="csharp" title="csharp" src="sources/csharp_dark.png" width="40" height="40"/>
   </picture>
-    <picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/blender_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/blender_light.png">
     <img alt="blender" title="blender" src="sources/blender_dark.png" width="40" height="40"/>
   </picture>
-  </picture>
-    <picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/aph_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/aph_light.png">
     <img alt="adobephotoshop" title="adobe photoshop" src="sources/aph_dark.png" width="40" height="40"/>
@@ -43,5 +42,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="sources/youtube_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/youtube_light.png">
     <img alt="youtube" src="sources/youtube_dark.png" width="30" height="30" align="center"/>
-</picture></a> 
+</picture></a>
+<a href="https://vitalygds.itch.io/" target="blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sources/itchio_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="sources/itchio_light.png">
+    <img alt="itchio" src="sources/itchio_dark.png" width="30" height="30" align="center"/>
+</picture></a>
 </p>
