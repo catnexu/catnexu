@@ -8,12 +8,17 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/unity_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/unity_light.png">
-    <img alt="unity" src="sources/unity_dark.png" width="40" height="40" />
+    <img alt="unity" src="sources/unity_dark.png" width="40" height="40"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/csharp_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/csharp_light.png">
-    <img alt="csharp" src="sources/csharp_dark.png" width="40" height="40" />
+    <img alt="csharp" src="sources/csharp_dark.png" width="40" height="40"/>
+  </picture>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sources/blender_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="sources/blender_light.png">
+    <img alt="blender" src="sources/blender_dark.png" width="40" height="40"/>
   </picture>
 </p>
 
