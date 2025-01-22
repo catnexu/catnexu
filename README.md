@@ -1,8 +1,7 @@
-<h2 align="center"><b>WELCOME</b></h3>
+<h2 align="center"><b>WELCOME</b></h2>
 <p align="center"><img src="sources/prevgif.gif"></p>
 <h3 align="center">I`m a Unity developer</h3>
 
-<hr>
 <p align="center">
 <b>My stack</b><br/>
 <!-- Icons from: https://simpleicons.org -->
@@ -26,13 +25,14 @@
     <source media="(prefers-color-scheme: light)" srcset="sources/aph_light.png">
     <img alt="adobephotoshop" title="adobe photoshop" src="sources/aph_dark.png" width="40" height="40"/>
   </picture>
-<hr>
 </p>
 
-<p align="left">
-<br/>
-<a href="https://github.com/catnexu/Asteroids" target="blank"><b>My "My Favorite type of Architecture" sample project</b></a>
-</p>
+### **Projects**
+- [My "My Favorite type of Architecture" sample project](https://github.com/catnexu/Asteroids)
+- [Call of Sentinels (Steam)](https://store.steampowered.com/app/2558200/Call_of_Sentinels/)
+- [Minotaur`s maze (itch.io)](https://vitalygds.itch.io/minotaurs-maze)
+- [CardStacker (itch.io)](https://vitalygds.itch.io/cardstacker)
+
 
 
 <hr>
@@ -57,5 +57,10 @@
     <source media="(prefers-color-scheme: light)" srcset="sources/itchio_light.png">
     <img alt="itchio" src="sources/itchio_dark.png" width="30" height="30" align="center"/>
 </picture></a>
-<hr>
 </p>
+
+<!--
+<details>
+  <summary>Click for Docker details</summary>
+</details>
+-->
