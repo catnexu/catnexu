@@ -1,6 +1,6 @@
+<center><h2 align="center">WELCOME</h3></center>
 <p align="center"><img src="sources/prevgif.gif"></p>
-<h3 align="center">Unity developer.</h3>
-
+<h3 align="center">Unity developer</h3>
 
 <p align="center">
 <b>My stack</b><br />
