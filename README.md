@@ -24,7 +24,7 @@
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/aph_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/aph_light.png">
-    <img alt="adobe photoshop" title="blender" src="sources/aph_dark.png" width="40" height="40"/>
+    <img alt="adobephotoshop" title="adobe photoshop" src="sources/aph_dark.png" width="40" height="40"/>
   </picture>
 </p>
 
@@ -38,5 +38,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="sources/linkedin_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/linkedin_light.png">
     <img alt="linkedin" src="sources/linkedin_dark.png" width="30" height="30" align="center"/>
+</picture></a> 
+<a href="https://www.youtube.com/channel/UC--lLw00PpkTZPGEs4DyCUQ" target="blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sources/youtube_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="sources/youtube_light.png">
+    <img alt="youtube" src="sources/youtube_dark.png" width="30" height="30" align="center"/>
 </picture></a> 
 </p>
