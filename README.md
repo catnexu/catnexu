@@ -8,25 +8,29 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/unity_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/unity_light.png">
-    <img alt="unity" src="sources/unity_dark.png" width="40" height="40"/>
+    <img alt="unity" title="unity" src="sources/unity_dark.png" width="40" height="40"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/csharp_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/csharp_light.png">
-    <img alt="csharp" src="sources/csharp_dark.png" width="40" height="40"/>
+    <img alt="csharp" title="csharp" src="sources/csharp_dark.png" width="40" height="40"/>
   </picture>
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/blender_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/blender_light.png">
-    <img alt="blender" src="sources/blender_dark.png" width="40" height="40"/>
+    <img alt="blender" title="blender" src="sources/blender_dark.png" width="40" height="40"/>
   </picture>
 </p>
 
 <p align="center">
 <b>Media links</b><br />
+<a href="https://t.me/catnexu" target="blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sources/tg_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="sources/tg_light.png">
+    <img alt="telegram" src="sources/tg_dark.png" width="30" height="30" align="center"/>
 <a href="https://www.linkedin.com/in/vitalygds/" target="blank"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/linkedin_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/linkedin_light.png">
-    <img alt="linkedin" src="sources/linkedin_dark.png" width="30" height="30" align="center" />
+    <img alt="linkedin" src="sources/linkedin_dark.png" width="30" height="30" align="center"/>
 </picture></a> 
 </p>
