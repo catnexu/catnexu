@@ -20,6 +20,12 @@
     <source media="(prefers-color-scheme: light)" srcset="sources/blender_light.png">
     <img alt="blender" title="blender" src="sources/blender_dark.png" width="40" height="40"/>
   </picture>
+  </picture>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sources/aph_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="sources/aph_light.png">
+    <img alt="adobe photoshop" title="blender" src="sources/aph_dark.png" width="40" height="40"/>
+  </picture>
 </p>
 
 <p align="center">
