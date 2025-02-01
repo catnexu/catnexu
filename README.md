@@ -30,8 +30,8 @@
 ### **Projects**
 - [My "My Favorite type of Architecture" sample project](https://github.com/catnexu/Asteroids)
 - [Call of Sentinels (Steam)](https://store.steampowered.com/app/2558200/Call_of_Sentinels/)
-- [Minotaur`s maze (itch.io)](https://vitalygds.itch.io/minotaurs-maze)
-- [CardStacker (itch.io)](https://vitalygds.itch.io/cardstacker)
+- [Minotaur`s maze (itch.io)](https://catnexu.itch.io/minotaurs-maze)
+- [CardStacker (itch.io)](https://catnexu.itch.io/cardstacker)
 
 
 
@@ -52,7 +52,7 @@
     <source media="(prefers-color-scheme: light)" srcset="sources/youtube_light.png">
     <img alt="youtube" src="sources/youtube_dark.png" width="30" height="30" align="center"/>
 </picture></a>
-<a href="https://vitalygds.itch.io/" target="blank"><picture>
+<a href="https://catnexu.itch.io/" target="blank"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/itchio_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/itchio_light.png">
     <img alt="itchio" src="sources/itchio_dark.png" width="30" height="30" align="center"/>
