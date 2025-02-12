@@ -16,6 +16,16 @@
     <img alt="csharp" title="csharp" src="sources/csharp_dark.png" width="40" height="40"/>
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sources/go_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="sources/go_light.png">
+    <img alt="go" title="go" src="sources/go_dark.png" width="40" height="40"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sources/python_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="sources/python_light.png">
+    <img alt="python" title="python" src="python/unity_dark.png" width="40" height="40"/>
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/blender_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/blender_light.png">
     <img alt="blender" title="blender" src="sources/blender_dark.png" width="40" height="40"/>
