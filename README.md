@@ -41,8 +41,8 @@
 ### **Projects**
 - [My "My Favorite type of Architecture" sample project](https://github.com/catnexu/Asteroids)
 - [Call of Sentinels (Steam)](https://store.steampowered.com/app/2558200/Call_of_Sentinels/)
+- [New Orion (Google play)](https://www.youtube.com/watch?v=BqzpzdAlMJg)
 - [Minotaur`s maze (itch.io)](https://catnexu.itch.io/minotaurs-maze)
-- [CardStacker (itch.io)](https://catnexu.itch.io/cardstacker)
 
 
 
