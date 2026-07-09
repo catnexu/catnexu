@@ -53,7 +53,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="sources/tg_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/tg_light.png">
     <img alt="telegram" src="sources/tg_dark.png" width="30" height="30" align="center"/>
-<a href="https://www.linkedin.com/in/vitalygds/" target="blank"><picture>
+<a href="https://www.linkedin.com/in/catnexu/" target="blank"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="sources/linkedin_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="sources/linkedin_light.png">
     <img alt="linkedin" src="sources/linkedin_dark.png" width="30" height="30" align="center"/>
@@ -86,7 +86,5 @@
   <summary>Click for Docker details</summary>
 </details>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catnexu&repo=Asteroids&description_lines_count=2&show_icons=true&title_color=edf5e1&icon_color=edf5e1&text_color=66fcf1&bg_color=0b0c10&border_color=c5c6c7"/)](https://github.com/catnexuAsteroids)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=catnexu&line=66fcf1&color=edf5e1&theme=high-contrast)](https://github.com/catnexu/github-readme-activity-graph)
 -->
