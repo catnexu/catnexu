@@ -75,7 +75,7 @@
   <table>
   <tr>
       <td><img width="500px" align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=catnexu&line=66fcf1&color=edf5e1&theme=high-contrast"/></td>
-      <td><img height="100px" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></td>
+      <td><img height="150px" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></td>
   </tr>   
 </table>
 </p>
