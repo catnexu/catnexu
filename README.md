@@ -1,5 +1,5 @@
 <h2 align="center"><b>WELCOME</b></h2>
-<p align="center"><img src="sources/prevgif.gif"></p>
+<p align="center"><img height="250px" src="sources/prevgif.gif"></p>
 <h3 align="center">I`m a Unity developer</h3>
 
 <p align="center">
