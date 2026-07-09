@@ -75,7 +75,6 @@
   <table>
   <tr>
       <td><img width="500px" align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=catnexu&line=66fcf1&color=edf5e1&theme=high-contrast"/></td>
-      <td><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catnexu&hide=html&layout=compact&hide_border=true&hide_title=false&text_color=66fcf1&bg_color=0b0c10&border_color=66fcf1&icon_color=edf5e1&line_color=edf5e1&hide_progress=false&title_color=edf5e1"/></td>
   </tr>   
 </table>
 </p>
@@ -86,5 +85,7 @@
   <summary>Click for Docker details</summary>
 </details>
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catnexu&repo=Asteroids&description_lines_count=2&show_icons=true&title_color=edf5e1&icon_color=edf5e1&text_color=66fcf1&bg_color=0b0c10&border_color=c5c6c7"/)](https://github.com/catnexuAsteroids)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=catnexu&line=66fcf1&color=edf5e1&theme=high-contrast)](https://github.com/catnexu/github-readme-activity-graph)
 -->
